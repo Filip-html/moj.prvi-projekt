@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.business-card {
+    .business-card img {
+    display: block;
+    margin: 0 auto;
+}
